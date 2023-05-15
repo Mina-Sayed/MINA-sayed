@@ -47,7 +47,6 @@ src="https://img.shields.io/twitter/follow/Minasayed8?logo=twitter&style=for-the
 
 ### Badges
 
-<a href="https://app.daily.dev/Mina_Boss"><img src="https://api.daily.dev/devcards/4a7c4faec60e4ddd937d862a5706d5cb.png?r=l57" width="400" alt="mina sayed's Dev Card"/></a>
 
 <b>My GitHub Stats</b>
 
