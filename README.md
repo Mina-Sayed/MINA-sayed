@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 I started learning programming 5 years ago with a passion for this field I started learning programming 5 years ago with a passion for this field I learned a lot through educational videos and some specialized courses and obtaining certificates, which is very interesting for me. I started working in 2021 as a software developer and this was a new challenge for me and I was very happy
-
+                                                                                                                                                                             
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [minasayed290@gmail.com](mailto:minasayed290@gmail.com)
 * 🧠  I'm learning GraphQL, Vue.js, Redis, Nest.js
@@ -46,6 +46,8 @@ src="https://img.shields.io/twitter/follow/Minasayed8?logo=twitter&style=for-the
 <p align="left"> <a href="https://www.github.com/MINA-sayed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mina-sayed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Minasayed8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<a href="https://app.daily.dev/Mina_Boss"><img src="https://api.daily.dev/devcards/4a7c4faec60e4ddd937d862a5706d5cb.png?r=l57" width="400" alt="mina sayed's Dev Card"/></a>
 
 <b>My GitHub Stats</b>
 
