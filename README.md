@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mina Sayed
 ==================================================================================================================================
 
+<a href="https://app.daily.dev/Mina_Boss"><img src="https://api.daily.dev/devcards/4a7c4faec60e4ddd937d862a5706d5cb.png?r=ifr" width="400" alt="mina sayed's Dev Card"/></a>
+
 Software Developer
 ------------------
 
